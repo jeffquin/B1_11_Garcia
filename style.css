@@ -19,3 +19,13 @@ img{
     height:250px;
     width :200px;
 }
+.audio-container {
+  
+  justify-content: center;
+  align-items: center;
+}
+.video-container {
+ display: flex;
+  width:300px;
+  height:250px;
+}
